@@ -22,4 +22,5 @@ node index.js
 - [ ] Support multiple videos
 - [ ] Support multiple overlays per video
 - [ ] Dockerization
+- [ ] TypeScript
 
